@@ -7,7 +7,7 @@ window.GOFLASH_CONFIG = {
   // EN VIVO desde distintos celulares. Ejemplo:
   // "https://goflash-xxxxx-default-rtdb.firebaseio.com"
   // Si lo dejas vacío, la web funciona en modo DEMO (solo dentro de un mismo navegador).
-  FIREBASE_URL: "https://console.firebase.google.com/project/statusgoflash/database/statusgoflash-default-rtdb/data/~2F",
+  FIREBASE_URL: "https://statusgoflash-default-rtdb.firebaseio.com",
 
   // Dirección pública de tu web para los enlaces del cliente (opcional).
   // Ejemplo: "https://TU-USUARIO.github.io/goflash/"  (vacío = usa la dirección actual)
